@@ -7,7 +7,7 @@ Code for our paper [Self-Guided Adaptation: Progressive Representation Alignment
 The implementation is built on the pytorch implementation of [faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch), please refer to the original project to set up the environment.
 
 ### Visualizations
-![image]https://github.com/ZongxianLee/SGA_DA_Detection/blob/master/docs/fig_vis.png
+![image](https://github.com/ZongxianLee/SGA_DA_Detection/blob/master/docs/fig_vis.png)
 
 
 ### Prerequisites
